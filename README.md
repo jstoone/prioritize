@@ -3,6 +3,8 @@ pri·or·i·tize
 
 The goal for pri·or·i·tize is to make prioritizing tasks easier
 
+---------------------------------
+
 ### CONCEPT   ####
 - the goal for pri·or·i·tize is to make prioritizing tasks easier
 - tasks are taking form as colored sticky notes
@@ -13,6 +15,10 @@ The goal for pri·or·i·tize is to make prioritizing tasks easier
     - organge       #f8a792
     - pink          #ea91bd
 
+---------------------------------
+
 ### FUNCTIONS  ####
 - Users will be able to:
     - Reposition tasks by Drag'n'Dropping
+
+---------------------------------
