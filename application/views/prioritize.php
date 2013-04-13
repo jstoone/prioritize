@@ -1,16 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Welcome to CodeIgniter</title>
+<div class="gridster row-fluid">
+        <ul class="span12">
+            <li class="span2" data-row="1" data-col="1" data-sizex="1" data-sizey="1"></li>
+            <li class="span2" data-row="1" data-col="2" data-sizex="1" data-sizey="1"></li>
+            <li class="span2" data-row="1" data-col="3" data-sizex="1" data-sizey="1"></li>
+            <li class="span2" data-row="1" data-col="4" data-sizex="1" data-sizey="1"></li>
+            <li class="span2" data-row="1" data-col="5" data-sizex="1" data-sizey="1"></li>
+            <li class="span2" data-row="1" data-col="6" data-sizex="1" data-sizey="1"></li>
 
-</head>
-<body>
+            <li class="span2" data-row="2" data-col="1" data-sizex="1" data-sizey="1"></li>
+            <li class="span2" data-row="2" data-col="2" data-sizex="1" data-sizey="1"></li>
+            <li data-row="2" data-col="3" data-sizex="1" data-sizey="1"></li>
+            <li data-row="2" data-col="4" data-sizex="1" data-sizey="1"></li>
+            <li data-row="2" data-col="5" data-sizex="1" data-sizey="1"></li>
+            <li data-row="2" data-col="6" data-sizex="1" data-sizey="1"></li>
 
-<div id="container">
-    {elapsed_time}
-</div>
-
-</body>
-</html>
+            <li data-row="3" data-col="1" data-sizex="1" data-sizey="1"></li>
+            <li data-row="3" data-col="2" data-sizex="1" data-sizey="1"></li>
+            <li data-row="3" data-col="3" data-sizex="1" data-sizey="1"></li>
+            <li data-row="3" data-col="4" data-sizex="1" data-sizey="1"></li>
+            <li data-row="3" data-col="5" data-sizex="1" data-sizey="1"></li>
+            <li data-row="3" data-col="6" data-sizex="1" data-sizey="1"></li>
+        </ul>
+    </div>
+</di>
