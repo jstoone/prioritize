@@ -1,5 +1,16 @@
 
-.gridster ul li {
-    list-style: none;
+.gridster div div{
     background-color: #b6d884;
+}
+
+.gridster div div:first-of-type {
+    margin-left: 36px !important;
+}
+
+textarea#note {
+    width: 200px;
+    height: 200px;
+    resize: none;
+    background-color: transparent;
+    padding: 0;
 }
