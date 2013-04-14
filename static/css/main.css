@@ -1,16 +1,59 @@
-
-.gridster div div{
-    background-color: #b6d884;
+header {
+    width: 940px;
 }
 
-.gridster div div:first-of-type {
-    margin-left: 36px !important;
+header a {
+    color: #333333 !important;
+}
+
+.gridster {
+    width: 940px;
+}
+
+.gridster div.stickies div{
+    /* Firefox */
+    -moz-box-shadow:2px 2px 4px rgba(33,33,33,1);
+
+    /* Safari+Chrome */
+    -webkit-box-shadow: 2px 2px 4px rgba(33,33,33,.7);
+
+    /* Opera */
+    box-shadow: 2px 2px 4px rgba(33,33,33,.7);
+}
+
+.gridster div.stickies div p {
+    padding: 3px;
+    word-break: break-all;
 }
 
 textarea#note {
-    width: 200px;
-    height: 200px;
+    width: 136px;
+    height: 136px;
     resize: none;
     background-color: transparent;
     padding: 0;
+}
+
+
+
+/* ===== helpers ==== */
+.block-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green {
+    background-color: #b6d884 !important;
+}
+
+.yellow {
+    background-color: #fff68f !important;
+}
+
+.orange {
+    background-color: #f8a792 !important;
+}
+
+.pink {
+    background-color: #ea91bd !important;
 }

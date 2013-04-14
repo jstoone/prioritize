@@ -20,7 +20,6 @@ class Main extends CI_Controller
      */
     public function main() {
         parent::__construct();
-        $this->load->helper('directory');
         $this->load->helper('url');
     }
 

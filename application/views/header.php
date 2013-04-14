@@ -12,7 +12,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>pri·or·i·tize</title>
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
@@ -28,4 +27,33 @@
     <script src="<?php print base_url();?>static/js/plugins.js"></script>
     <script src="<?php print base_url();?>static/js/main.js"></script>
 </head>
-<body class="container-fluid">
+<body>
+    <header class="block-center page-header">
+        <h1>pri·or·i·tize <small>your tasks</small></h1>
+        <ul class="nav nav-pills">
+            <li class="active">
+                <a href="#" class="pink">
+                    <i class="icon-plus-sign"></i>
+                    Pink
+                </a>
+            </li>
+            <li class="active">
+                <a href="#" class="orange">
+                    <i class="icon-plus-sign"></i>
+                    Orange
+                </a>
+            </li>
+            <li class="active">
+                <a href="#" class="yellow">
+                    <i class="icon-plus-sign"></i>
+                     Yellow
+                </a>
+            </li>
+            <li class="active">
+                <a href="#" class="green">
+                    <i class="icon-plus-sign"></i>
+                    Green
+                </a>
+            </li>
+        </ul>
+    </header>
