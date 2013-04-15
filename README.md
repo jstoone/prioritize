@@ -3,6 +3,8 @@ pri·or·i·tize
 
 The goal for pri·or·i·tize is to make prioritizing tasks easier
 
+Stable builds will be frequently uploaded to http://prioritize.meat-software.org
+
 ---------------------------------
 
 ### CONCEPT   ####
@@ -18,17 +20,20 @@ The goal for pri·or·i·tize is to make prioritizing tasks easier
 ---------------------------------
 
 ### FUNCTIONS  ####
-- Users ARE be able to:
+- PEOPLE ARE be able to:
     - Reposition tasks by Drag'n'Dropping
     - Dynamically add new tasks
     - Shortcuts:
         - Double-click-edit
 - PEOPLE WILL be able to:
-	- Get their tasks added to a database
-		- (notes get deleted on page refresh!)
-	- Create users
+	- Create users && login with Facebook/Google
 		- Users WILL be able to:
+			- Delete tasks
+			- Get their tasks added to a database
+            		- (notes get deleted on page refresh!)
 			- Create groups
+			- Change between fonts
+			-
 			- Share their tasks
 	- Read about MY way of sorting tasks though pri·or·i·tize
 	    - (this will be based on documented research and personal opinion)
