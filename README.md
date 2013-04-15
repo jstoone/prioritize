@@ -33,7 +33,6 @@ Stable builds will be frequently uploaded to http://prioritize.meat-software.org
             		- (notes get deleted on page refresh!)
 			- Create groups
 			- Change between fonts
-			-
 			- Share their tasks
 	- Read about MY way of sorting tasks though pri·or·i·tize
 	    - (this will be based on documented research and personal opinion)
